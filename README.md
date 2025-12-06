@@ -1,4 +1,4 @@
-# Customer Shopping Pattern Analysis
+Customer Shopping Pattern Analysis
 
 ## Overview
 Analyzed **3,900 customer purchases** to uncover spending patterns, product preferences, and subscription behavior to guide business decisions.
@@ -12,6 +12,10 @@ Analyzed **3,900 customer purchases** to uncover spending patterns, product pref
 - **Python (EDA & Cleaning):** Loaded data, handled missing values, standardized columns, created age groups & purchase frequency.  
 - **SQL (PostgreSQL):** Revenue by gender, top products, customer segmentation, discount analysis, shipping type comparison.  
 - **Power BI Dashboard:** Visualized revenue trends, top-rated products, subscriber vs. non-subscriber insights.
+
+## Workflow
+<img width="1536" height="1024" alt="ChatGPT Image Dec 6, 2025, 08_11_25 PM" src="https://github.com/user-attachments/assets/6b3107a1-c917-42a0-a5e7-32cff9d40315" />
+
 
 ## Business Recommendations
 - Boost subscriptions & loyalty programs  
